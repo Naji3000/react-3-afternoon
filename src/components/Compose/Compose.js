@@ -5,6 +5,7 @@ import './Compose.css';
 
 //////////////////////////////////////////////////////// THIS COMPONENT IS BEING RENDERED IN THE *APP* COMPONENT
 
+
 export default class Compose extends Component {
   constructor() {
     super();

@@ -83,6 +83,7 @@ export default class Post extends Component {
           <span className="Post__date" > { date } </span>
         </div>
 
+
         {/* This is where the text goes. Notice the turnary statement. The turnary statement decides to display either the text OR the editor view
             You can also think of it as being written as so:
               if( this.state.editing === true ) {
