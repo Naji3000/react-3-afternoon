@@ -32,6 +32,7 @@ export default class Edit extends Component {
     const { hideEdit } = this.props;
     const { text } = this.state;
 
+    
     return (
       <section className="Edit__parent">
 

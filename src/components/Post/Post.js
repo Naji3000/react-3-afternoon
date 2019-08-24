@@ -15,6 +15,7 @@ export default class Post extends Component {
   constructor() {
     super();
 
+    
     this.state = {
       editing: false,
       showMasterMenu: false
